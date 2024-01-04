@@ -31,11 +31,11 @@ cd World-Capitals-Quiz
 npm install
 
 # Create a new PostgreSQL database named Newdb (you may need to use your PostgreSQL client or command-line tools)
-# For example:
-# psql -U postgres -c "CREATE DATABASE Newdb;"
+ For example:
+ psql -U postgres -c "CREATE DATABASE Newdb;"
 
-# Run the SQL script to create the necessary table (capitals)
-# Make sure to replace 'your-username' with the actual username and adjust the path to your SQL script if needed
+ Run the SQL script to create the necessary table (capitals)
+ Make sure to replace 'your-username' with the actual username and adjust the path to your SQL script if needed
 psql -U postgres -d Newdb -a -f path/to/your/sql/script.sql
 
 # Start the application
