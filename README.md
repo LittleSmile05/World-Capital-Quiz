@@ -15,15 +15,6 @@ This is a simple quiz application that tests your knowledge of capital cities ar
 - Node.js installed
 - PostgreSQL installed and configured
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/LittleSmile05/World-Capitals-Quiz.git
-# Clone the repository
-git clone https://github.com/your-username/World-Capitals-Quiz.git
-
 # Navigate to the project directory
 cd World-Capitals-Quiz
 
